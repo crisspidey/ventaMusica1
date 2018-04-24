@@ -10,5 +10,6 @@ public class ejemplo {
         System.out.println("Hello, my World!");
         System.out.println("Hola cris, como estás");
         System.out.println("casa mia");
+        System.out.println("casa mia");
     }
 }
