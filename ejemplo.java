@@ -11,5 +11,9 @@ public class ejemplo {
         System.out.println("Hola cris, como estás");
         System.out.println("casa mia");
         System.out.println("casa mia");
+        
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
 }
